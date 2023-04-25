@@ -1,3 +1,3 @@
 # MySql-Exercises
 
-This is a repo thats going to contain 10 mySQL exercises.
+These are 10 sql-express task solutions
